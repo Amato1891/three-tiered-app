@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "name": "Eugene Haley",
+      "dob": "1988-1-16",
+      "email": "Eugene73@yahoo.com",
+      "username": "Eugene.Haley",
+      "password": "2pkFTMjYpRAakh3",
+      "phone": "1-576-425-8754",
+      "streetaddress": "48950 Allie Square",
+      "citystatezip": "Trompland, MO 68174-0667",
+      "latitude": "-35.0941",
+      "longitude": "77.6692",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/petar_prog/128.jpg"
+    },
+    {
+      "name": "Mckenzie Gottlieb",
+      "dob": "1992-6-14",
+      "email": "Mckenzie_Gottlieb@gmail.com",
+      "username": "Mckenzie23",
+      "password": "JF3MSJSbwfsETUU",
+      "phone": "950.378.8601",
+      "streetaddress": "8308 Luna Branch",
+      "citystatezip": "North Gaetanostad, HI 24539",
+      "latitude": "-4.0712",
+      "longitude": "79.0368",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/angelceballos/128.jpg"
+    },
+    {
+      "name": "Tom Stokes DVM",
+      "dob": "1955-12-29",
+      "email": "Tom.Stokes49@hotmail.com",
+      "username": "Tom.Stokes6",
+      "password": "RtA32BIqj2qFMcq",
+      "phone": "644-409-3260 x5136",
+      "streetaddress": "012 Verda Points",
+      "citystatezip": "Millstown, FL 30011-1933",
+      "latitude": "-31.5845",
+      "longitude": "119.3257",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/r_garcia/128.jpg"
+    },
+    {
+      "name": "Felipa Heidenreich",
+      "dob": "1971-9-4",
+      "email": "Felipa22@hotmail.com",
+      "username": "Felipa15",
+      "password": "ZjPuK_hPNSWZqjt",
+      "phone": "(799) 525-3747",
+      "streetaddress": "4672 Kuvalis Neck",
+      "citystatezip": "Osbornemouth, NJ 63318-2174",
+      "latitude": "-65.5792",
+      "longitude": "8.7735",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/lowie/128.jpg"
+    },
+    {
+      "name": "Gabrielle Feeney MD",
+      "dob": "1954-8-3",
+      "email": "Gabrielle93@hotmail.com",
+      "username": "Gabrielle.Feeney8",
+      "password": "9OrZ7X6ekkbx0qI",
+      "phone": "1-710-556-8284 x4720",
+      "streetaddress": "258 O'Connell Cliffs",
+      "citystatezip": "East Rosario, WV 74444",
+      "latitude": "-23.4521",
+      "longitude": "-108.3013",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/akashsharma39/128.jpg"
+    },
+    {
+      "name": "Irma Krajcik",
+      "dob": "1977-1-14",
+      "email": "Irma_Krajcik@gmail.com",
+      "username": "Irma_Krajcik",
+      "password": "8QfNLvjkJBrvWoX",
+      "phone": "248-263-4089 x6786",
+      "streetaddress": "974 Jon Cove",
+      "citystatezip": "South Kassandra, MS 63880-7787",
+      "latitude": "-49.8178",
+      "longitude": "-38.8282",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/langate/128.jpg"
+    },
+    {
+      "name": "Adell Beer",
+      "dob": "1986-9-3",
+      "email": "Adell.Beer25@hotmail.com",
+      "username": "Adell.Beer",
+      "password": "5nAJepKeoHpZ019",
+      "phone": "1-478-730-3425",
+      "streetaddress": "65612 Abernathy Stravenue",
+      "citystatezip": "North Maeveside, MN 02104-2797",
+      "latitude": "-29.6805",
+      "longitude": "-174.5579",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ooomz/128.jpg"
+    },
+    {
+      "name": "Esperanza Maggio",
+      "dob": "1959-6-21",
+      "email": "Esperanza16@gmail.com",
+      "username": "Esperanza.Maggio28",
+      "password": "XUkk4lfnvqtnK_o",
+      "phone": "1-770-908-1292",
+      "streetaddress": "4795 Roob Field",
+      "citystatezip": "Bergstromburgh, VT 04652-7309",
+      "latitude": "-81.6012",
+      "longitude": "172.9497",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kurtinc/128.jpg"
+    }
+  ]
+}

@@ -4,12 +4,20 @@
   "description": "sample server",
   "main": "index.js",
   "scripts": {
+    "build": "npm install",
     "start": "node http_server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+
+    "node": "14.18.1"
+
   },
   "author": "amato1891@yahoo.com",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0"
   }
 }
